@@ -24,6 +24,7 @@
    modified from https://github.com/sleemanj/gerb2etch
    converts a gerber files to images.
 
+*** usage
    #+BEGIN_SRC sh
    % bin/gerb2etch
 
