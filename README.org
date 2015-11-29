@@ -1,0 +1,3 @@
+* Kicad project template
+
+  Contains scripts and the basic directory structure of a kicad project.
